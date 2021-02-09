@@ -1,0 +1,12 @@
+{
+  "name": "test-sys-ip",
+  "version": "1.0.0",
+  "description": "This is a simple application to test all the ips of a system.",
+  "main": "index.js",
+  "author": "Prashant Yadav",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "local-ipv4-address": "^0.0.2"
+  }
+}
